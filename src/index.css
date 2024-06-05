@@ -10,3 +10,10 @@
     font-family: GL;
     src: url(../Gilroy-Light.otf);
 }
+.text-gradient {
+    background-color: #FFE53B;
+  background: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
